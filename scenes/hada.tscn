@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://cyiden44i2aa"]
+
+[ext_resource type="SpriteFrames" uid="uid://dolop8yhkht76" path="res://assets/kenney_pixel-platformer/Tiles/Characters/hada.tres" id="1_4x7gq"]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" unique_id=445418912]
+sprite_frames = ExtResource("1_4x7gq")
+animation = &"wall_jump"

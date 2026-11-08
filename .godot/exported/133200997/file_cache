@@ -1,0 +1,10 @@
+res://assets/kenney_pixel-platformer/Tiles/Characters/hada.tres::d4682f8f409d08614c7f2247b7253b43::1794065914::res://.godot/exported/133200997/export-d6d5e9b38c3d4f830231ad37f99e95e9-hada.res
+res://assets/kenney_pixel-platformer/Tiles/Characters/oscuro.tres::f5e2b3d00fb6fd3807356f70b6198b76::1794065934::res://.godot/exported/133200997/export-d2a943d632b0c489ef99d601a240c61b-oscuro.res
+res://assets/kenney_pixel-platformer/Tiles/Characters/psiquico.tres::5bb9c8f58154a89bed5d9123ac9afcce::1794065952::res://.godot/exported/133200997/export-4d22e724372ae00bf81bd6410377ebe7-psiquico.res
+res://assets/kenney_pixel-platformer/Tiles/Characters/veneno.tres::7f76190e2477bd972029ab84003ad772::1794065968::res://.godot/exported/133200997/export-c586e121e1526f36009606ef3d1d95bc-veneno.res
+res://scenes/Player.tscn::87c228bf1dca65bb159494a62ba5f92c::1794076475::res://.godot/exported/133200997/export-e8220e74d1354b9e6b168b513689419c-Player.scn
+res://scenes/psiquico.tscn::ec51ee4a13bad007e7eec7ebc583ec79::1794065347::res://.godot/exported/133200997/export-c1150c77830bb841215b38b2b7b7d885-psiquico.scn
+res://scenes/hada.tscn::18d9c74aed5ecdd94d88fb3bc369c7d0::1794084746::res://.godot/exported/133200997/export-b0c83d5fa084249e8f415cfeb719d380-hada.scn
+res://scenes/oscuro.tscn::51f771ab51d2802f82be7c453e6f72a3::1794084746::res://.godot/exported/133200997/export-6d4067d4de266504216d172ce2b8c9ba-oscuro.scn
+res://scenes/veneno.tscn::91cabcedd2c810d4d809879f770e9cbb::1794084746::res://.godot/exported/133200997/export-b520ed3790741ded08c8751f39028ff9-veneno.scn
+res://Main.tscn::0a675eabf0981dd49942ff095df47fa6::1794093301::res://.godot/exported/133200997/export-bcb0d2eb5949c52b6a65bfe9de3e985b-Main.scn

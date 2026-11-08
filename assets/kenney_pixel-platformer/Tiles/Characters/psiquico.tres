@@ -1,0 +1,59 @@
+[gd_resource type="SpriteFrames" format=3 uid="uid://1jnom6frm4rj"]
+
+[ext_resource type="Texture2D" uid="uid://cp40tcjxwpwjy" path="res://assets/kenney_pixel-platformer/Tiles/Characters/psiquico-2.png" id="1_8evbc"]
+[ext_resource type="Texture2D" uid="uid://cityw80nr4sy" path="res://assets/kenney_pixel-platformer/Tiles/Characters/Sprite-0001.png" id="2_hojbr"]
+[ext_resource type="Texture2D" uid="uid://dmdoxiawa0fri" path="res://assets/kenney_pixel-platformer/Tiles/Characters/psiquico-1.png" id="3_84m27"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_8evbc")
+}],
+"loop": 1,
+"name": &"double_jump",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_8evbc")
+}],
+"loop": 1,
+"name": &"fall",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_hojbr")
+}],
+"loop": 1,
+"name": &"idle",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_8evbc")
+}],
+"loop": 1,
+"name": &"jump",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("3_84m27")
+}, {
+"duration": 1.0,
+"texture": ExtResource("1_8evbc")
+}],
+"loop": 1,
+"name": &"run",
+"speed": 8.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_8evbc")
+}],
+"loop": 1,
+"name": &"wall_jump",
+"speed": 5.0
+}]

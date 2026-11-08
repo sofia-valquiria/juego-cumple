@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://jvil2gjhxvqh"]
+
+[ext_resource type="SpriteFrames" uid="uid://duns8ew7mm2x5" path="res://assets/kenney_pixel-platformer/Tiles/Characters/veneno.tres" id="1_j3u2a"]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" unique_id=445418912]
+sprite_frames = ExtResource("1_j3u2a")
+animation = &"double_jump"

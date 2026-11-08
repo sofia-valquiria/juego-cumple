@@ -1,0 +1,59 @@
+[gd_resource type="SpriteFrames" format=3 uid="uid://dolop8yhkht76"]
+
+[ext_resource type="Texture2D" uid="uid://bi1klv2wids5n" path="res://assets/kenney_pixel-platformer/Tiles/Characters/Sprite-1002.png" id="1_bt5x6"]
+[ext_resource type="Texture2D" uid="uid://mkoid67v7cae" path="res://assets/kenney_pixel-platformer/Tiles/Characters/Sprite-1001.png" id="2_h40oi"]
+
+[resource]
+resource_name = "hada"
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_bt5x6")
+}],
+"loop": 1,
+"name": &"double_jump",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_bt5x6")
+}],
+"loop": 1,
+"name": &"fall",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_h40oi")
+}],
+"loop": 1,
+"name": &"idle",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_bt5x6")
+}],
+"loop": 1,
+"name": &"jump",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_h40oi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("1_bt5x6")
+}],
+"loop": 1,
+"name": &"run",
+"speed": 8.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_bt5x6")
+}],
+"loop": 1,
+"name": &"wall_jump",
+"speed": 5.0
+}]

@@ -1,0 +1,58 @@
+[gd_resource type="SpriteFrames" format=3 uid="uid://duns8ew7mm2x5"]
+
+[ext_resource type="Texture2D" uid="uid://c4qnx5ffxwcjg" path="res://assets/kenney_pixel-platformer/Tiles/Characters/Sprite-2002.png" id="1_gw8ko"]
+[ext_resource type="Texture2D" uid="uid://cwsleyms2q7qy" path="res://assets/kenney_pixel-platformer/Tiles/Characters/Sprite-2001.png" id="2_w5wcs"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_gw8ko")
+}],
+"loop": 1,
+"name": &"double_jump",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_gw8ko")
+}],
+"loop": 1,
+"name": &"fall",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_w5wcs")
+}],
+"loop": 1,
+"name": &"idle",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_gw8ko")
+}],
+"loop": 1,
+"name": &"jump",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_w5wcs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("1_gw8ko")
+}],
+"loop": 1,
+"name": &"run",
+"speed": 8.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_gw8ko")
+}],
+"loop": 1,
+"name": &"wall_jump",
+"speed": 5.0
+}]

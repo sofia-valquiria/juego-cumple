@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://0v81fqoj3m5d"]
+
+[ext_resource type="SpriteFrames" uid="uid://gbk7qbv3q43k" path="res://assets/kenney_pixel-platformer/Tiles/Characters/oscuro.tres" id="1_ow584"]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" unique_id=445418912]
+sprite_frames = ExtResource("1_ow584")
+animation = &"wall_jump"
